@@ -1,0 +1,31 @@
+{
+  "cloud": true,
+  "pages": [
+    "pages/cover/cover",
+    "pages/me/me",
+
+    "pages/guanyu/guanyu",
+    "pages/firstpage/firstpage",
+    "pages/choosearea/areaA/areaA",
+    "pages/choosearea/areaB/areaB",
+    "pages/choosearea/areaC/areaC",
+    "pages/choosearea/areaD/areaD",
+    "pages/index/index",
+    "pages/userConsole/userConsole",
+    "pages/storageConsole/storageConsole",
+    "pages/databaseGuide/databaseGuide",
+    "pages/addFunction/addFunction",
+    "pages/deployFunctions/deployFunctions",
+    "pages/chooseLib/chooseLib"
+  ],
+  "window": {
+    "backgroundColor":"#AAAAAA",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#E0EBAF",
+    "navigationBarTitleText": "预约",
+    "navigationBarTextStyle": "black"
+  },
+  "tarbar":{
+    
+  }
+}

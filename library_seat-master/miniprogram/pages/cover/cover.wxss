@@ -1,0 +1,80 @@
+/* pages/cover/cover.wxss */
+/* pages/cover/cover.wxss */
+swiper{
+  width:100%;
+  height:600rpx;
+}
+
+swiper image{
+  width:100%;
+  height:600rpx;
+}
+
+.text-container{
+  width:100%;
+  font-style: initial;
+  background-image: url("http://thyrsi.com/t6/620/1543589814x1822614104.jpg")
+
+}
+
+.yuyue-container{
+  margin-top:200rpx;
+  left:80rpx;
+  
+  width:120rpx;
+  height:120rpx;
+  border-radius:50%;
+  text-align:center;
+  color:rgb(247, 223, 120);
+  font-weight: bold;
+  font-size: 50rpx;
+  line-height: 90rpx;
+}
+
+.guanyu-container{
+  margin-top:200rpx;
+  margin-left:120rpx;
+  width:120rpx;
+  height:120rpx;
+  border-radius:50%;
+  text-align:center;
+  color:rgb(247, 223, 120);
+  font-weight: bold;
+  font-size: 50rpx;
+  line-height: 90rpx;
+}
+
+.wode-container{
+  margin-top:200rpx;
+  margin-left:120rpx;
+  width:120rpx;
+  height:120rpx;
+  border-radius:50%;
+  text-align:center;
+  color:rgb(247, 223, 120);
+  font-weight: bold;
+  font-size: 50rpx;
+  line-height: 90rpx;
+}
+
+text{
+  font-family: Microsoft YaHei;
+}
+
+.container{
+  width:100%;
+  height:500rpx;
+  background-image: url("http://thyrsi.com/t6/620/1543589896x1822614104.jpg");
+
+background-repeat:no-repeat; background-size:100% 100%;-moz-background-size:100% 100%;
+}
+
+.chinese{
+  font-size: 45rpx;
+  color: white;
+}
+
+.english{
+  font-size: 30rpx;
+
+}

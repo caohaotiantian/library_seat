@@ -1,0 +1,47 @@
+<!--pages/firstpage/firstpage.wxml-->
+<view class='topcontainer'>
+  <view class="Acontainer">
+    <image class="Ajpg" catchtap="gotoA" src="http://thyrsi.com/t6/620/1543590036x1822614104.jpg"/>
+    <view class='areaA' catchtap='gotoA'>
+      <text class='areatxt'>A</text>
+      <text class='desknumber'>{{Adesk}}</text>
+      <view wx:if="{{condition==2 && reserve[0]=='A'}}" class='alarm'></view>
+    </view>
+  </view>
+
+  <view class="Bcontainer">
+    <image class="Bjpg" catchtap="gotoB" src="http://thyrsi.com/t6/622/1543660217x2890211744.jpg"/>
+    <view class='areaB' catchtap='gotoB'>
+      <text class='areatxt'>B</text>
+      <text class='desknumber'>{{Bdesk}}</text>
+      <view wx:if="{{condition==2 && reserve[0]=='B'}}" class='alarm'></view>
+    </view>
+  </view>
+
+</view>
+<view class="background">
+  <image class="backgroundjpg" src="http://thyrsi.com/t6/620/1543590158x1822614104.jpg"/>
+</view>
+
+<view class="bottomcontainer">
+
+  <view class="Ccontainer">
+  <image class="Cjpg" catchtap="gotoC" src="http://thyrsi.com/t6/622/1543660268x2890211744.jpg"/>
+    <view class='areaC' catchtap='gotoC'>
+      <text class='areatxt'>C</text>
+      <text class='desknumber'>{{Cdesk}}</text>
+      <view wx:if="{{condition==2 && reserve[0]=='C'}}" class='alarm'></view>  
+    </view>
+  </view>
+
+  <view class="Dcontainer">
+    <image class="Djpg" catchtap="gotoHall" src="http://thyrsi.com/t6/620/1543590476x2728294190.jpg"/>
+    <view class='areaD' catchtap='gotoHall'>
+      <text class='areatxt'>走廊</text>
+      <text class='desknumber'>{{Halldesk}}</text>
+      <view wx:if="{{condition==2 && reserve[0]=='走廊'}}" class='alarm'></view>
+    </view>
+  </view>
+
+  
+</view>

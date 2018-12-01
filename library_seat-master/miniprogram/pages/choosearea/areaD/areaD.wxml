@@ -1,0 +1,90 @@
+<!--pages/choosearea/areaD/areaD.wxml-->
+<import src='../areaA/areaA.wxml'/>
+
+<view style='height:1250rpx; width:750rpx; background-color:#FAC85D'>
+  <movable-area scale-area="{{true}}" style="height:800rpx; width:750rpx;background-color:gray">
+    <movable-view class='container' direction="all" scale="{{true}}" x="{{x}}" y="{{y}}" scale-max="{{scalemax}}">
+      <template is='columnfour' data="{{...deskinfo[0]}}"/>
+      <template is='columnfour' data="{{...deskinfo[1]}}"/>
+      <template is='columnfour' data="{{...deskinfo[2]}}"/>
+      <template is='columnfour' data="{{...deskinfo[3]}}"/>
+      <template is='columnfour' data="{{...deskinfo[4]}}"/>
+      <template is='columnfour' data="{{...deskinfo[5]}}"/>
+      <template is='columnfour' data="{{...deskinfo[6]}}"/>
+      <template is='columnfour' data="{{...deskinfo[7]}}"/>
+      <template is='columnfour' data="{{...deskinfo[8]}}"/>
+      <template is='columnfour' data="{{...deskinfo[9]}}"/>
+      <template is='columnfour' data="{{...deskinfo[10]}}"/>
+      <template is='columnfour' data="{{...deskinfo[11]}}"/>
+      <template is='columnfour' data="{{...deskinfo[12]}}"/>
+      <template is='columnfour' data="{{...deskinfo[13]}}"/>
+      <template is='columnfour' data="{{...deskinfo[14]}}"/>
+      <template is='columnfour' data="{{...deskinfo[15]}}"/>
+      <template is='columnfour' data="{{...deskinfo[16]}}"/>
+      <template is='columnfour' data="{{...deskinfo[17]}}"/>
+      <template is='columnfour' data="{{...deskinfo[18]}}"/>
+      <template is='rowfour' data="{{...deskinfo[19]}}"/>
+      <template is='rowfour' data="{{...deskinfo[20]}}"/>
+      <template is='rowfour' data="{{...deskinfo[21]}}"/>
+      <template is='rowfour' data="{{...deskinfo[22]}}"/>
+      <template is='rowfour' data="{{...deskinfo[23]}}"/>
+      <template is='rowfour' data="{{...deskinfo[24]}}"/>
+      <template is='rowfour' data="{{...deskinfo[25]}}"/>
+      <template is='rowfour' data="{{...deskinfo[26]}}"/>
+      <template is='columnfour' data="{{...deskinfo[27]}}"/>
+      <template is='columnfour' data="{{...deskinfo[28]}}"/>
+      <template is='columnfour' data="{{...deskinfo[29]}}"/>
+      <template is='columnfour' data="{{...deskinfo[30]}}"/>
+      <template is='columnfour' data="{{...deskinfo[31]}}"/>
+      <template is='columnfour' data="{{...deskinfo[32]}}"/>
+      <template is='columnfour' data="{{...deskinfo[33]}}"/>
+      <template is='columnfour' data="{{...deskinfo[34]}}"/>
+      <template is='columnfour' data="{{...deskinfo[35]}}"/>
+      <template is='columnfour' data="{{...deskinfo[36]}}"/>
+      <template is='columnfour' data="{{...deskinfo[37]}}"/>
+      <template is='columnfour' data="{{...deskinfo[38]}}"/>
+      <template is='columnfour' data="{{...deskinfo[39]}}"/>
+      <template is='columnfour' data="{{...deskinfo[40]}}"/>
+      <template is='columnfour' data="{{...deskinfo[41]}}"/>
+     
+
+    </movable-view>
+  </movable-area>
+  <view wx:if="{{userinfo.condition==0}}">
+   <view class='post1'>
+   请选择想要预约的座位,红色为已被选择的座位
+   </view>
+  </view>
+  <view wx:if="{{userinfo.condition==1}}" >
+    <view class='post1'>
+    已选择 {{userinfo.reserve[0]}}区 {{userinfo.reserve[1]}}号桌 {{userinfo.reserve[2]}}号位
+    </view>
+    <view class='post2' catchtap='determine'>
+    确认预约
+    </view>
+  </view>
+  <view wx:if="{{userinfo.condition==2}}" >
+    <view class='post1'>
+    已预约 {{userinfo.reserve[0]}}区 {{userinfo.reserve[1]}}号桌 {{userinfo.reserve[2]}}号位
+    </view>
+    <view class='post2' catchtap='cancelwarn'>
+    取消预约
+    </view>
+    <view class='post3'>
+      请在{{time}}前入座
+      逾时系统将自动取消并扣除您的信誉积分
+    </view>
+  </view>
+  <view wx:if="{{userinfo.condition==3}}" >
+    <view class='post1'>
+    已就座 {{userinfo.reserve[0]}}区 {{userinfo.reserve[1]}}号桌 {{userinfo.reserve[2]}}号位
+    </view>
+    <view class='post2' catchtap='outSeat'>
+    释放座位
+    </view>
+    <view class='post3'>
+      离开图书馆后系统将自动释放您的座位
+      下次需重新预约
+    </view>
+  </view>
+</view>
