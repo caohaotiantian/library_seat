@@ -1,0 +1,299 @@
+/* pages/choosearea/areaA/areaA.wxss */
+@import "/app.wxss";
+
+#adx1{
+  left: 30rpx;
+  top: 640rpx;
+}
+
+#adx2{
+  left: 58rpx;
+  top: 640rpx;
+}
+
+#adx3{
+  left: 86rpx;
+  top: 640rpx;
+}
+
+#adx4{
+  left: 30rpx;
+  top: 580rpx;
+}
+
+#adx5{
+  left: 58rpx;
+  top: 580rpx;
+}
+
+#adx6{
+  left: 86rpx;
+  top: 580rpx;
+}
+
+#adx7{
+  left: 42rpx;
+  top: 520rpx;
+}
+#adx8{
+  left: 78rpx;
+  top: 520rpx;
+}
+
+#adx9{
+  left: 42rpx;
+  top: 460rpx;
+}
+
+#adx10{
+  left: 78rpx;
+  top: 460rpx;
+}
+
+#adx11{
+  left: 42rpx;
+  top: 400rpx;
+}
+#adx12{
+  left: 78rpx;
+  top: 400rpx;
+}
+
+#adx13{
+  left: 42rpx;
+  top: 340rpx;
+}
+
+#adx14{
+  left: 78rpx;
+  top: 340rpx;
+}
+#adx15{
+  left: 42rpx;
+  top: 280rpx;
+}
+#adx16{
+  left: 78rpx;
+  top: 280rpx;
+}
+
+#adx17{
+  left: 42rpx;
+  top: 220rpx;
+}
+#adx18{
+  left: 150rpx;
+  top: 640rpx;
+}
+#adx19{
+  left: 150rpx;
+  top: 580rpx;
+}
+#adx20{
+  left: 150rpx;
+  top: 520rpx;
+}
+#adx21{
+  left: 150rpx;
+  top: 460rpx;
+}
+#adx22{
+  left: 150rpx;
+  top: 400rpx;
+}
+#adx23{
+  left: 150rpx;
+  top: 340rpx;
+}
+#adx24{
+  left: 150rpx;
+  top: 280rpx;
+}
+#adx25{
+  left: 150rpx;
+  top: 220rpx;
+}
+#adx26{
+  left: 150rpx;
+  top: 160rpx;
+}
+#adx27{
+  left: 60rpx;
+  top: 100rpx;
+}
+#adx28{
+  left: 87rpx;
+  top: 100rpx;
+}
+#adx29{
+  left: 150rpx;
+  top: 100rpx;
+}
+#adx30{
+  left: 177rpx;
+  top: 100rpx;
+}
+#adx31{
+  left: 250rpx;
+  top: 460rpx;
+}
+#adx32{
+  left: 277rpx;
+  top: 460rpx;
+}
+#adx33{
+  left: 304rpx;
+  top: 460rpx;
+}
+#adx34{
+  left: 250rpx;
+  top: 390rpx;
+}
+#adx35{
+  left: 277rpx;
+  top: 390rpx;
+}
+#adx36{
+  left: 304rpx;
+  top: 390rpx;
+}
+#adx37{
+  left: 250rpx;
+  top: 320rpx;
+}
+#adx38{
+  left: 277rpx;
+  top: 320rpx;
+}
+#adx39{
+  left: 304rpx;
+  top: 320rpx;
+}
+#adx40{
+  left: 250rpx;
+  top: 250rpx;
+}
+#adx41{
+  left: 277rpx;
+  top: 250rpx;
+}
+#adx42{
+  left: 304rpx;
+  top: 250rpx;
+}
+#adx43{
+  left: 250rpx;
+  top: 180rpx;
+}
+#adx44{
+  left: 277rpx;
+  top: 180rpx;
+}
+#adx45{
+  left: 304rpx;
+  top: 180rpx;
+}
+#adx46{
+  left: 360rpx;
+  top: 600rpx;
+}
+#adx47{
+  left: 360rpx;
+  top: 573rpx;
+}
+#adx48{
+  left: 420rpx;
+  top: 600rpx;
+}
+#adx49{
+  left: 420rpx;
+  top: 573rpx;
+}
+#adx58{
+  left: 480rpx;
+  top: 520rpx;
+}
+#adx59{
+  left: 480rpx;
+  top: 460rpx;
+}
+#adx60{
+  left: 480rpx;
+  top: 400rpx;
+}
+#adx61{
+  left: 480rpx;
+  top: 340rpx;
+}
+#adx62{
+  left: 480rpx;
+  top: 280rpx;
+}
+#adx63{
+  left: 480rpx;
+  top: 220rpx;
+}
+#adx50{
+  left: 570rpx;
+  top: 640rpx;
+}
+#adx51{
+  left: 598rpx;
+  top: 640rpx;
+}
+#adx52{
+  left: 626rpx;
+  top: 640rpx;
+}
+#adx53{
+  left: 654rpx;
+  top: 640rpx;
+}
+#adx54{
+  left: 570rpx;
+  top: 560rpx;
+}
+#adx55{
+  left: 598rpx;
+  top: 560rpx;
+}
+#adx56{
+  left: 626rpx;
+  top: 560rpx;
+}
+#adx57{
+  left: 654rpx;
+  top: 560rpx;
+}
+#adx64{
+  left: 610rpx;
+  top: 460rpx;
+}
+#adx65{
+  left: 610rpx;
+  top: 380rpx;
+}
+#adx66{
+  left: 600rpx;
+  top: 300rpx;
+}
+#adx67{
+  left: 640rpx;
+  top: 300rpx;
+}
+#adx68{
+  left: 600rpx;
+  top: 240rpx;
+}
+#adx69{
+  left: 640rpx;
+  top: 240rpx;
+}
+page{
+  background-color: #a88787
+}
+
+.container{
+  background-image:url("http://thyrsi.com/t6/620/1543590649x2728294190.jpg");
+  background-repeat:no-repeat; background-size:100% 100%;-moz-background-size:100% 100%;
+}

@@ -1,0 +1,38 @@
+<!--pages/cover/cover.wxml-->
+<!--pages/cover/cover.wxml-->
+<view>
+  <swiper indicator-dots="true" autoplay="true" interval="5000">
+    <swiper-item>
+      <image src="http://thyrsi.com/t6/620/1543589306x1822614104.jpg"/>
+      </swiper-item>
+    <swiper-item>
+      <image src="http://thyrsi.com/t6/620/1543589658x1822614104.jpg"/>
+      </swiper-item>
+    <swiper-item>
+      <image src="http://thyrsi.com/t6/620/1543589701x1822614104.jpg"/>
+      </swiper-item>
+  </swiper>
+</view>
+
+<view class="text-container">
+  <text class="chinese">欢迎来到上海交通大学图书馆预约系统</text>
+  <text class="english">Welcome to Shanghai Jiaotong University library reservation system</text>
+</view>
+
+<view class="container">
+  
+  
+  <view catchtap="onTapJump" class="yuyue-container">
+    <text class="yuyue">预约</text>
+  </view>
+
+  <view catchtap="onTapJumpguanyu"class="guanyu-container">
+    <text class="guanyu">关于</text>
+  </view>
+
+  <view catchtap="onTapJumpwode" class="wode-container">
+    <text class="wode">我的</text>
+  </view>
+  
+</view>
+ 

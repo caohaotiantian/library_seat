@@ -1,0 +1,109 @@
+/* pages/firstpage/firstpage.wxss */
+
+.background{
+  width:100%;
+  height:250rpx;
+}
+.backgroundjpg{
+  width:100%;
+  height:250rpx;
+}
+
+.topcontainer{
+  display: flex;
+  flex-direction: row;
+  height:530rpx;
+  width: 100%;
+}
+
+.Acontainer{
+  display:flex;
+  flex-direction:column;
+  height: 530rpx;
+  width: 50%;
+  background-color: #FFF97D;
+}
+
+.Ajpg{
+  height:380rpx;
+}
+
+.areaA{
+  margin-top: 0rpx;
+  height:150rpx;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+.Bcontainer{
+  display:flex;
+  flex-direction:column;
+  height: 530rpx;
+  width: 50%;
+  background-color: #70C6F5 ; 
+}
+
+.Bjpg{
+  height:380rpx;
+}
+
+.areaB{
+  margin-top: 0rpx;
+  height:150rpx;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+.bottomcontainer{
+  margin-top: 0rpx;
+  display: flex;
+  flex-direction: row;
+  height:530rpx;
+  width: 100%;
+}
+
+.Ccontainer{
+  display:flex;
+  flex-direction:column;
+  height: 530rpx;
+  width: 50%;
+  background-color:  #BBBBBB ;
+}
+
+.Cjpg{
+  height:380rpx;
+}
+
+.areaC{
+  margin-top: 0rpx;
+  height:150rpx;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+.Dcontainer{
+  display:flex;
+  flex-direction:column;
+  height: 530rpx;
+  width: 50%;
+  background-color: #FAC85D ;
+}
+
+.Djpg{
+  height:380rpx;
+}
+
+.areaD{
+  margin-top: 0rpx;
+  height:150rpx;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+.desknumber{
+  font-size: 25rpx;
+}

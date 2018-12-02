@@ -1,0 +1,461 @@
+/* pages/choosearea/areaC/areaC.wxss */
+
+#cdx1{
+  top: 650rpx;
+  left: 130rpx;
+}
+
+#cdx2{
+  top: 650rpx;
+  left: 145.5rpx;
+}
+
+#cdx3{
+  top: 650rpx;
+  left: 161rpx;
+}
+
+#cdx4{
+  top: 650rpx;
+  left: 176.5rpx;
+}
+#cdx5{
+  top: 650rpx;
+  left: 190rpx;
+}
+#cdx6{
+  top: 650rpx;
+  left: 205.5rpx;
+}
+#cdx7{
+  top: 650rpx;
+  left: 450rpx;
+}
+#cdx8{
+  top: 650rpx;
+  left: 465.5rpx;
+}
+#cdx9{
+  top: 650rpx;
+  left: 481rpx;
+}
+#cdx10{
+  top: 650rpx;
+  left: 496.5rpx;
+}
+#cdx11{
+  top: 650rpx;
+  left: 512rpx;
+}
+#cdx12{
+  top: 650rpx;
+  left: 527.5rpx;
+}
+#cdx13{
+  top: 650rpx;
+  left: 543rpx;
+}
+#cdx14{
+  top: 650rpx;
+  left: 558.5rpx;
+}
+#cdx15{
+  top: 595rpx;
+  left: 99rpx;
+}
+#cdx16{
+  top: 595rpx;
+  left: 114.5rpx;
+}
+#cdx17{
+  top: 595rpx;
+  left: 130rpx;
+}
+#cdx18{
+  top: 595rpx;
+  left: 145.5rpx;
+}
+#cdx19{
+  top: 595rpx;
+  left: 161rpx;
+}
+#cdx20{
+  top: 595rpx;
+  left: 176.5rpx;
+}
+#cdx21{
+  top: 595rpx;
+  left: 192rpx;
+}
+#cdx22{
+  top: 595rpx;
+  left: 207.5rpx;
+}
+#cdx23{
+  top: 540rpx;
+  left: 99rpx;
+}
+#cdx24{
+  top: 540rpx;
+  left: 114.5rpx;
+}
+#cdx25{
+  top: 540rpx;
+  left: 130rpx;
+}
+#cdx26{
+  top: 540rpx;
+  left: 145.5rpx;
+}
+#cdx27{
+  top: 540rpx;
+  left: 161rpx;
+}
+#cdx28{
+  top: 540rpx;
+  left: 176.5rpx;
+}
+#cdx29{
+  top: 540rpx;
+  left: 192rpx;
+}
+#cdx30{
+  top: 540rpx;
+  left: 207.5rpx;
+}
+#cdx31{
+  top: 485rpx;
+  left: 99rpx;
+}
+#cdx32{
+  top: 485rpx;
+  left: 114.5rpx;
+}
+#cdx33{
+  top: 485rpx;
+  left: 130rpx;
+}
+#cdx34{
+  top: 485rpx;
+  left: 145.5rpx;
+}
+#cdx35{
+  top: 485rpx;
+  left: 161rpx;
+}
+#cdx36{
+  top: 485rpx;
+  left: 176.5rpx;
+}
+#cdx37{
+  top: 485rpx;
+  left: 192rpx;
+}
+#cdx38{
+  top: 485rpx;
+  left: 207.5rpx;
+}
+#cdx39{
+  top: 625rpx;
+  left: 588.5rpx;
+}
+#cdx40{
+  top: 608rpx;
+  left: 588.5rpx;
+}
+#cdx41{
+  top: 591rpx;
+  left: 588.5rpx;
+}
+#cdx42{
+  top: 574rpx;
+  left: 588.5rpx;
+}
+#cdx43{
+  top: 557rpx;
+  left: 588.5rpx;
+}
+#cdx44{
+  top: 540rpx;
+  left: 588.5rpx;
+}
+#cdx45{
+  top: 523rpx;
+  left: 588.5rpx;
+}
+#cdx46{
+  top: 506rpx;
+  left: 588.5rpx;
+}
+#cdx47{
+  top: 489rpx;
+  left: 588.5rpx;
+}
+#cdx48{
+  top: 582rpx;
+  left: 450rpx;
+}
+#cdx49{
+  top: 582rpx;
+  left: 465.5rpx;
+}
+#cdx50{
+  top: 582rpx;
+  left: 481rpx;
+}
+#cdx51{
+  top: 582rpx;
+  left: 496.5rpx;
+}
+#cdx52{
+  top: 557rpx;
+  left: 526.5rpx;
+}
+#cdx53{
+  top: 540rpx;
+  left: 526.5rpx;
+}
+#cdx54{
+  top: 523rpx;
+  left: 526.5rpx;
+}
+#cdx55{
+  top: 506rpx;
+  left: 526.5rpx;
+}
+#cdx56{
+  top: 489rpx;
+  left: 526.5rpx;
+}
+#cdx57{
+  top: 200rpx;
+  left: 99rpx;
+}
+#cdx58{
+  top: 200rpx;
+  left: 119rpx;
+}
+#cdx59{
+  top: 200rpx;
+  left: 139rpx;
+}
+#cdx60{
+  top: 200rpx;
+  left: 159rpx;
+}
+#cdx61{
+  top: 200rpx;
+  left: 179rpx;
+}
+#cdx62{
+  top: 200rpx;
+  left: 199rpx;
+}
+#cdx63{
+  top: 200rpx;
+  left: 219rpx;
+}
+#cdx64{
+  top: 195rpx;
+  left: 245rpx;
+}
+#cdx65{
+  top: 175rpx;
+  left: 245rpx;
+}
+#cdx66{
+  top: 155rpx;
+  left: 245rpx;
+}
+#cdx67{
+  top: 135rpx;
+  left: 245rpx;
+}
+#cdx68{
+  top: 70rpx;
+  left: 219rpx;
+}
+#cdx74{
+  top: 70rpx;
+  left: 99rpx;
+}
+#cdx73{
+  top: 70rpx;
+  left: 119rpx;
+}
+#cdx72{
+  top: 70rpx;
+  left: 139rpx;
+}
+#cdx71{
+  top: 70rpx;
+  left: 159rpx;
+}
+#cdx70{
+  top: 70rpx;
+  left: 179rpx;
+}
+#cdx69{
+  top: 70rpx;
+  left: 199rpx;
+}
+#cdx75{
+  top: 75rpx;
+  left: 80rpx;
+}
+#cdx76{
+  top: 95rpx;
+  left: 80rpx;
+}
+#cdx77{
+  top: 115rpx;
+  left: 80rpx;
+}
+#cdx78{
+  top: 135rpx;
+  left: 80rpx;
+}
+#cdx79{
+  top: 300rpx;
+  left: 526.5rpx;
+}
+#cdx80{
+  top: 283rpx;
+  left: 526.5rpx;
+}
+#cdx81{
+  top: 266rpx;
+  left: 526.5rpx;
+}
+#cdx82{
+  top: 249rpx;
+  left: 526.5rpx;
+}
+#cdx83{
+  top: 232rpx;
+  left: 526.5rpx;
+}
+#cdx84{
+  top: 207rpx;
+  left: 496.5rpx;
+}
+#cdx85{
+  top: 207rpx;
+  left: 481rpx;
+}
+#cdx86{
+  top: 207rpx;
+  left: 465.5rpx;
+}
+#cdx87{
+  top: 207rpx;
+  left: 450rpx;
+}
+#cdx88{
+  top: 300rpx;
+  left: 588.5rpx;
+}
+#cdx89{
+  top: 283rpx;
+  left: 588.5rpx;
+}
+#cdx90{
+  top: 266rpx;
+  left: 588.5rpx;
+}
+#cdx91{
+  top: 249rpx;
+  left: 588.5rpx;
+}
+#cdx92{
+  top: 232rpx;
+  left: 588.5rpx;
+}
+#cdx93{
+  top: 215rpx;
+  left: 588.5rpx;
+}
+#cdx94{
+  top: 198rpx;
+  left: 588.5rpx;
+}
+#cdx95{
+  top: 181rpx;
+  left: 588.5rpx;
+}
+#cdx96{
+  top: 164rpx;
+  left: 588.5rpx;
+}
+#cdx97{
+  top: 149rpx;
+  left: 558.5rpx;
+}
+#cdx98{
+  top: 149rpx;
+  left: 541.5rpx;
+}
+#cdx99{
+  top: 149rpx;
+  left: 524.5rpx;
+}
+#cdx100{
+  top: 149rpx;
+  left: 507.5rpx;
+}
+#cdx101{
+  top: 149rpx;
+  left: 490.5rpx;
+}
+#cdx102{
+  top: 149rpx;
+  left: 473.5rpx;
+}
+#cdx103{
+  top: 149rpx;
+  left: 456.5rpx;
+}
+#cdx104{
+  top: 149rpx;
+  left: 439.5rpx;
+}
+#cdx105{
+  top: 200rpx;
+  left: 320rpx;
+}
+#cdx106{
+  top: 183rpx;
+  left: 320rpx;
+}
+#cdx107{
+  top: 166rpx;
+  left: 320rpx;
+}
+#cdx108{
+  top: 149rpx;
+  left: 320rpx;
+}
+#cdx109{
+  top: 132rpx;
+  left: 320rpx;
+}
+#cdx110{
+  top: 115rpx;
+  left: 320rpx;
+}
+#cdx111{
+  top: 98rpx;
+  left: 320rpx;
+}
+#cdx112{
+  top: 81rpx;
+  left: 320rpx;
+}
+page{
+  background-color: #a88787
+}
+
+.container{
+  background-image:url("http://thyrsi.com/t6/620/1543590799x2728294190.jpg");
+  background-repeat:no-repeat; background-size:100% 100%;-moz-background-size:100% 100%;
+}

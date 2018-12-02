@@ -1,0 +1,12 @@
+<!--pages/me/me.wxml-->
+
+  <view class="container3">
+    <text class="rule">信用积分规则\n</text>
+    <text class="guize">请您按时到达预定座位，否则我们会扣除相应的信用积分以示警告。若您当月的信用积分低于60分，您的预定将受到限制。</text>
+    <text class="text1">我的信用分数</text>
+    <text class="text2">{{credit}}</text>
+    <view wx:if="{{condition==2 && reserve[0]=='我的信用分数'}}" class='alarm'></view>
+  </view>
+
+  <image class="image" src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=698664900,3609622225&fm=26&gp=0.jpg"/>
+

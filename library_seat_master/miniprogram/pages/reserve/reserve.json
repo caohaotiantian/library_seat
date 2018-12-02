@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "#fff",
+  "navigationBarTitleText": "图书馆座位预约查询",
+  "backgroundColor": "#fff",
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh": false
+  }

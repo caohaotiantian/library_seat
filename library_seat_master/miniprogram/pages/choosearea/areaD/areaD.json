@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/firstpage/firstpage",
+    "pages/choosearea/areaD/areaD"
+  ],
+  "navigationBarBackgroundColor": "#FAC85D",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "走廊",
+  "backgroundColor": "#AAAAAA",
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh": true
+}
