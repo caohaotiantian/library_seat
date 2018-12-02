@@ -1,0 +1,176 @@
+/* pages/choosearea/areaD/areaD.wxss */
+
+#hdx1{
+  top: 100rpx;
+  left: 50rpx;
+}
+
+#hdx2{
+  top: 100rpx;
+  left: 100rpx;
+}
+
+#hdx3{
+  top: 100rpx;
+  left: 150rpx;
+}
+
+#hdx4{
+  top: 100rpx;
+  left: 200rpx;
+}
+#hdx5{
+  top: 100rpx;
+  left: 250rpx;
+}
+#hdx6{
+  top: 100rpx;
+  left: 300rpx;
+}
+#hdx7{
+  top: 100rpx;
+  left: 350rpx;
+}
+#hdx8{
+  top: 100rpx;
+  left: 400rpx;
+}
+#hdx9{
+  top: 100rpx;
+  left: 450rpx;
+}
+#hdx10{
+  top: 100rpx;
+  left: 500rpx;
+}
+#hdx11{
+  top: 350rpx;
+  left: 50rpx;
+}
+#hdx12{
+  top: 350rpx;
+  left: 100rpx;
+}
+#hdx13{
+  top: 350rpx;
+  left: 150rpx;
+}
+#hdx14{
+  top:350rpx;
+  left: 200rpx;
+}
+#hdx15{
+  top: 350rpx;
+  left:250rpx;
+}
+#hdx16{
+  top: 350rpx;
+  left: 300rpx;
+}
+#hdx17{
+  top: 350rpx;
+  left: 350rpx;
+}
+#hdx18{
+  top: 350rpx;
+  left: 400rpx;
+}
+#hdx19{
+  top: 350rpx;
+  left: 450rpx;
+}
+#hdx20{
+  top: 350rpx;
+  left: 488rpx;
+}
+#hdx21{
+  top: 310rpx;
+  left: 488rpx;
+}
+#hdx22{
+  top: 260rpx;
+  left: 488rpx;
+}
+#hdx23{
+  top: 210rpx;
+  left: 488rpx;
+}
+#hdx24{
+  top: 420rpx;
+  left: 56rpx;
+}#hdx25{
+  top: 470rpx;
+  left: 56rpx;
+}#hdx26{
+  top: 520rpx;
+  left: 56rpx;
+}
+#hdx27{
+  top: 570rpx;
+  left: 56rpx;
+}
+
+#hdx28{
+  top: 570rpx;
+  left: 100rpx;
+}
+
+#hdx29{
+  top: 570rpx;
+  left: 150rpx;
+}
+
+#hdx30{
+  top: 570rpx;
+  left: 200rpx;
+}
+#hdx31{
+  top: 570rpx;
+  left: 250rpx;
+}
+#hdx32{
+  top: 570rpx;
+  left: 300rpx;
+}
+#hdx33{
+  top: 570rpx;
+  left: 350rpx;
+}
+#hdx34{
+  top: 570rpx;
+  left: 400rpx;
+}
+#hdx35{
+  top: 570rpx;
+  left: 450rpx;
+}
+#hdx36{
+  top: 570rpx;
+  left: 500rpx;
+}
+#hdx37{
+  top: 700rpx;
+  left: 50rpx;
+}#hdx38{
+  top: 700rpx;
+  left: 100rpx;
+}#hdx39{
+  top: 700rpx;
+  left: 150rpx;
+}#hdx40{
+  top: 700rpx;
+  left: 200rpx;
+}#hdx41{
+  top: 700rpx;
+  left: 250rpx;
+}#hdx42{
+  top: 700rpx;
+  left: 300rpx;
+}
+page{
+  background-color: #a88787
+}
+.container{
+  background-image:url("http://thyrsi.com/t6/620/1543590843x2728294190.jpg");
+  background-repeat:no-repeat; background-size:100% 100%;-moz-background-size:100% 100%;
+}

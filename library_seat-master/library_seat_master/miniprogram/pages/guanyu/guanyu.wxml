@@ -1,0 +1,13 @@
+<!--pages/guanyu/guanyu.wxml-->
+<view class="container">
+  <view class="imagecontainer1">
+    <image class="image1" src="http://thyrsi.com/t6/620/1543589701x1822614104.jpg"/>
+  </view>
+  <view class="imagecontainer2">
+    <image class="image2" src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/crop%3D0%2C1%2C570%2C376%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=26b84914c395d143ce39be634ec0ae33/eac4b74543a98226abe38e308182b9014a90eb83.jpg"/>
+  </view>
+  <view class="textcontainer">
+    <text>上海交通大学图书馆（Shanghai jiaotong university library）是国际图联(IFLA)成员馆，在交通、材料、机电、能源、信息、管理及农业等学科领域形成馆藏文献特色。\n 馆藏纸质文献367万册，期刊7500余种，电子期刊5.55万种，电子图书281.07万种，学位论文322.12万种，电子数据库399个，此外，多媒体资源馆藏总量达4.59万种、15.5TB。支持通过网络24×7的馆藏目录、电子文献、馆际互借、参考咨询、文献征订、新书刊报道等服务</text>
+  </view>
+</view>
+  

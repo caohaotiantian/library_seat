@@ -1,0 +1,281 @@
+/**app.wxss**/
+
+.container{    
+  display: flex;
+  align-content: column;
+  justify-content: center;
+  touch-action: auto;
+  width: 750rpx;
+  height: 800rpx;
+  background-color: #DDDDDD;
+}
+
+.chair{
+  display: flex;
+  width: 12rpx;
+  border: 0.5px solid black;
+  height: 12rpx;
+  border-radius: 2rpx;
+  font-size: 10rpx;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.cx0{
+  background-color: lightgray;
+}
+
+.cx1{
+  background-color: red;
+}
+
+.mine{
+  background-color:cornflowerblue ;
+}
+
+#ix01{
+  top: -12.5rpx;
+  left: 0rpx;
+}
+
+#ix02{
+  top: -12.5rpx;
+  left: 13.5rpx;
+}
+
+#ix03{
+  top:-12.5rpx;
+  left:27rpx;
+}
+
+#ix04{
+  top:-12.5rpx;
+  left:40.5rpx;
+}
+
+#ix05{
+  top: 21rpx;
+  left: 0rpx;
+}
+
+#ix06{
+  top: 21rpx;
+  left: 13.5rpx;
+}
+
+#ix07{
+  top:21rpx;
+  left:27rpx;
+}
+
+#ix08{
+  top:21rpx;
+  left:40.5rpx;
+}
+
+#jx01{
+  top: 0rpx;
+  left: -12.5rpx;
+}
+
+#jx02{
+  top: 13.5rpx;
+  left: -12.5rpx;
+}
+
+#jx03{
+  top:27rpx;
+  left:-12.5rpx;
+}
+
+#jx04{
+  top:40.5rpx;
+  left:-12.5rpx;
+}
+
+#jx05{
+  top: 0rpx;
+  left: 21rpx;
+}
+
+#jx06{
+  top: 13.5rpx;
+  left: 21rpx;
+}
+
+#jx07{
+  top:27rpx;
+  left:21rpx;
+}
+
+#jx08{
+  top:40.5rpx;
+  left:21rpx;
+}
+
+.rowsix{
+  width: 40rpx;
+  border: 0.5px solid black;
+  height: 20rpx;
+  border-radius: 3rpx;
+  font-size: 12rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+.columnsix{
+  width: 20rpx;
+  border: 0.5px solid black;
+  height: 40rpx;
+  border-radius: 12rpx;
+  font-size: 12rpx;
+  writing-mode: vertical-lr;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.rowfour{
+  width: 27rpx;
+  border: 0.5px solid black;
+  height: 20rpx;
+  border-radius: 3rpx;
+  font-size: 8rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.columnfour{
+  width: 20rpx;
+  border: 0.5px solid black;
+  height: 27rpx;
+  border-radius: 3rpx;
+  font-size: 9rpx;
+  writing-mode: vertical-lr;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.rowtwo{
+  width: 14rpx;
+  border: 0.5px solid black;
+  height: 20rpx;
+  border-radius: 3rpx;
+  font-size: 9rpx;
+  writing-mode: vertical-lr;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.columntwo{
+  width: 20rpx;
+  border: 0.5px solid black;
+  height: 14rpx;
+  border-radius: 3rpx;
+  font-size: 9rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.rowone{
+  width: 14rpx;
+  border: 0.5px solid black;
+  height: 20rpx;
+  border-radius: 3rpx;
+  font-size: 9rpx;
+  writing-mode: vertical-lr;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.columnone{
+  width: 20rpx;
+  border: 0.5px solid black;
+  height: 14rpx;
+  border-radius: 3rpx;
+  font-size: 9rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+}
+
+.elec{
+  background-color: yellow;
+}
+
+.normal{
+  background-color:rgb(114, 167, 134);
+}
+
+.door{
+  width: 100rpx;
+  border: 0.5px solid black;
+  background-color: white;
+  height: 60rpx;
+  font-size: 40rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 739rpx;
+  left: 325rpx;
+  border-bottom: none;
+}
+
+.post1{
+  display: flex;
+  position: absolute;
+  height: 150rpx;
+  width: 400rpx;
+  left: 50rpx;
+  top: 850rpx;
+  background-color: lightgrey;
+  border-radius: 30rpx;
+  border-style: hidden;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.8;
+}
+
+.post2{
+  display: flex;
+  position: absolute;
+  height: 160rpx;
+  width: 160rpx;
+  left: 500rpx;
+  top: 850rpx;
+  border-radius: 80rpx;
+  background-color:lightgray;
+  align-items: center;
+  justify-content: center;
+  border-width: 10rpx;
+  border-style: solid;
+  border-color: gray;
+  opacity: 0.8;
+}
+
+.post3{
+  display: flex;
+  position: absolute;
+  left: 0rpx;
+  top: 1050rpx;
+  text-align: center;
+  color: darkblue;
+  font-size: 40rpx;
+}
+
+

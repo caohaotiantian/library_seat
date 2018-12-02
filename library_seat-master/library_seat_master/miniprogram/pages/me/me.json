@@ -1,0 +1,8 @@
+{
+  "pages": [
+    "pages/firstpage/firstpage",
+    "pages/me/me"
+  ],
+  "navigationBarTitleText": "我的信誉",
+  "navigationBarBackgroundColor": "#E0EBAF"
+}

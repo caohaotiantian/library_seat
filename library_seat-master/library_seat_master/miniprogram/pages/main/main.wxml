@@ -1,0 +1,16 @@
+<!--miniprogram/pages/main/main.wxml-->
+<text></text>
+<block id="p1">
+  <view wx:for="{{location}}" class='container'>
+    {{item}}
+  </view>
+
+  <switch wx:for="{{array}}" wx:key="special" style="display:block;">
+    {{item.id}}
+  </switch>
+  <button bindtap="switch">交换</button>
+  <button bindtap="addToFront">添加到他前面</button>
+
+  <view>{{obj.text}}</view>
+  <button bindtap='changeObject'>修改obj数据</button>
+</block>

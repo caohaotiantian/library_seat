@@ -1,0 +1,296 @@
+/* pages/choosearea/areaB/areaB.wxss */
+
+#bdx1{
+  top: 680rpx;
+  left: 437rpx;
+}
+
+#bdx2{
+  top: 680rpx;
+  left: 478rpx;
+}
+
+#bdx3{
+  top: 680rpx;
+  left: 539rpx;
+}
+
+#bdx4{
+  top: 680rpx;
+  left: 580rpx;
+}
+
+#bdx5{
+  top: 620rpx;
+  left: 294rpx;
+}
+
+#bdx6{
+  top: 620rpx;
+  left: 345rpx;
+}
+
+#bdx7{
+  top: 620rpx;
+  left: 386rpx;
+}
+
+#bdx8{
+  top: 620rpx;
+  left: 437rpx;
+}
+
+#bdx9{
+  top: 620rpx;
+  left: 478rpx;
+}
+
+#bdx10{
+  top: 620rpx;
+  left: 539rpx;
+}
+
+#bdx11{
+  top: 620rpx;
+  left: 580rpx;
+}
+
+#bdx12{
+  top: 560rpx;
+  left: 202rpx;
+}
+
+#bdx13{
+  top: 560rpx;
+  left: 243rpx;
+}
+
+#bdx14{
+  top: 560rpx;
+  left: 539rpx;
+}
+
+#bdx15{
+  top: 560rpx;
+  left: 580rpx;
+}
+
+#bdx16{
+  top: 500rpx;
+  left: 202rpx;
+}
+
+#bdx17{
+  top: 500rpx;
+  left: 243rpx;
+}
+
+#bdx18{
+  top: 500rpx;
+  left: 539rpx;
+}
+
+#bdx19{
+  top: 500rpx;
+  left: 580rpx;
+}
+
+#bdx20{
+  top: 440rpx;
+  left: 18rpx;
+}
+
+#bdx21{
+  top: 440rpx;
+  left: 59rpx;
+}
+
+#bdx22{
+  top: 440rpx;
+  left: 202rpx;
+}
+
+#bdx23{
+  top: 440rpx;
+  left: 243rpx;
+}
+
+#bdx24{
+  top: 440rpx;
+  left: 539rpx;
+}
+
+#bdx25{
+  top: 440rpx;
+  left: 580rpx;
+}
+
+#bdx26{
+  top: 380rpx;
+  left: 18rpx;
+}
+
+#bdx27{
+  top: 380rpx;
+  left: 59rpx;
+}
+
+#bdx28{
+  top: 380rpx;
+  left: 202rpx;
+}
+
+#bdx29{
+  top: 380rpx;
+  left: 243rpx;
+}
+
+#bdx30{
+  top: 380rpx;
+  left: 539rpx;
+}
+
+#bdx31{
+  top: 380rpx;
+  left: 580rpx;
+}
+
+#bdx32{
+  top: 320rpx;
+  left: 18rpx;
+}
+
+#bdx33{
+  top: 320rpx;
+  left: 59rpx;
+}
+
+#bdx34{
+  top: 320rpx;
+  left: 202rpx;
+}
+
+#bdx35{
+  top: 320rpx;
+  left: 243rpx;
+}
+
+#bdx36{
+  top: 320rpx;
+  left: 539rpx;
+}
+
+#bdx37{
+  top: 320rpx;
+  left: 580rpx;
+}
+
+#bdx38{
+  top: 260rpx;
+  left: 18rpx;
+}
+
+#bdx39{
+  top: 260rpx;
+  left: 59rpx;
+}
+
+#bdx40{
+  top: 260rpx;
+  left: 202rpx;
+}
+
+#bdx41{
+  top: 260rpx;
+  left: 243rpx;
+}
+
+#bdx42{
+  top: 260rpx;
+  left: 539rpx;
+}
+
+#bdx43{
+  top: 260rpx;
+  left: 580rpx;
+}
+
+#bdx44{
+  top: 200rpx;
+  left: 18rpx;
+}
+
+#bdx45{
+  top: 200rpx;
+  left: 59rpx;
+}
+
+#bdx46{
+  top: 200rpx;
+  left: 110rpx;
+}
+
+#bdx47{
+  top: 200rpx;
+  left: 151rpx;
+}
+
+#bdx48{
+  top: 200rpx;
+  left: 202rpx;
+}
+
+#bdx49{
+  top: 200rpx;
+  left: 243rpx;
+}
+
+#bdx50{
+  top: 140rpx;
+  left: 18rpx;
+}
+
+#bdx51{
+  top: 140rpx;
+  left: 59rpx;
+}
+
+#bdx52{
+  top: 140rpx;
+  left: 110rpx;
+}
+
+#bdx53{
+  top: 140rpx;
+  left: 202rpx;
+}
+
+#bdx54{
+  top: 140rpx;
+  left: 243rpx;
+}
+
+#bdx55{
+  top: 80rpx;
+  left: 18rpx;
+}
+
+#bdx56{
+  top: 80rpx;
+  left: 110rpx;
+}
+
+#bdx57{
+  top: 20rpx;
+  left: 18rpx;
+}
+
+
+page{
+  background-color: #a88787
+}
+
+.container{
+  background-image:url("http://thyrsi.com/t6/622/1543660143x2890211744.jpg");
+  background-repeat:no-repeat; background-size:100% 100%;-moz-background-size:100% 100%;
+}

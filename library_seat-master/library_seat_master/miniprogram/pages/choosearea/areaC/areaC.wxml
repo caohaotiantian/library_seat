@@ -1,0 +1,165 @@
+<!--pages/choosearea/areaC/areaC.wxml-->
+<import src='../areaA/areaA.wxml'/>
+
+<view style='height:1250rpx; width:750rpx; background-color:#BBBBBB'>
+  <movable-area scale-area="{{true}}" style="height:800rpx; width:750rpx;background-color:gray">
+    <movable-view class='container' direction="all" scale="{{true}}" x="{{x}}" y="{{y}}" scale-max="{{scalemax}}">
+      <template is='rowtwo' data="{{...deskinfo[0]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[1]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[2]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[3]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[4]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[5]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[6]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[7]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[8]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[9]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[10]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[11]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[12]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[13]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[14]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[15]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[16]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[17]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[18]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[19]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[20]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[21]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[22]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[23]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[24]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[25]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[26]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[27]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[28]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[29]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[30]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[31]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[32]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[33]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[34]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[35]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[36]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[37]}}"/>
+      <template is='columntwo' data="{{...deskinfo[38]}}"/>
+      <template is='columntwo' data="{{...deskinfo[39]}}"/>
+      <template is='columntwo' data="{{...deskinfo[40]}}"/>
+      <template is='columntwo' data="{{...deskinfo[41]}}"/>
+      <template is='columntwo' data="{{...deskinfo[42]}}"/>
+      <template is='columntwo' data="{{...deskinfo[43]}}"/>
+      <template is='columntwo' data="{{...deskinfo[44]}}"/>
+      <template is='columntwo' data="{{...deskinfo[45]}}"/>
+      <template is='columntwo' data="{{...deskinfo[46]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[47]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[48]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[49]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[50]}}"/>
+      <template is='columntwo' data="{{...deskinfo[51]}}"/>
+      <template is='columntwo' data="{{...deskinfo[52]}}"/>
+      <template is='columntwo' data="{{...deskinfo[53]}}"/>
+      <template is='columntwo' data="{{...deskinfo[54]}}"/>
+      <template is='columntwo' data="{{...deskinfo[55]}}"/>
+      <template is='southone' data="{{...deskinfo[56]}}"/>
+      <template is='southone' data="{{...deskinfo[57]}}"/>
+      <template is='southone' data="{{...deskinfo[58]}}"/>
+      <template is='southone' data="{{...deskinfo[59]}}"/>
+      <template is='southone' data="{{...deskinfo[60]}}"/>
+      <template is='southone' data="{{...deskinfo[61]}}"/>
+      <template is='southone' data="{{...deskinfo[62]}}"/>
+      <template is='eastone' data="{{...deskinfo[63]}}"/>
+      <template is='eastone' data="{{...deskinfo[64]}}"/>
+      <template is='eastone' data="{{...deskinfo[65]}}"/>
+      <template is='eastone' data="{{...deskinfo[66]}}"/>
+      <template is='northone' data="{{...deskinfo[67]}}"/>
+      <template is='northone' data="{{...deskinfo[68]}}"/>
+      <template is='northone' data="{{...deskinfo[69]}}"/>
+      <template is='northone' data="{{...deskinfo[70]}}"/>
+      <template is='northone' data="{{...deskinfo[71]}}"/>
+      <template is='northone' data="{{...deskinfo[72]}}"/>
+      <template is='northone' data="{{...deskinfo[73]}}"/>
+      <template is='westone' data="{{...deskinfo[74]}}"/>
+      <template is='westone' data="{{...deskinfo[75]}}"/>
+      <template is='westone' data="{{...deskinfo[76]}}"/>
+      <template is='westone' data="{{...deskinfo[77]}}"/>
+      <template is='columntwo' data="{{...deskinfo[78]}}"/>
+      <template is='columntwo' data="{{...deskinfo[79]}}"/>
+      <template is='columntwo' data="{{...deskinfo[80]}}"/>
+      <template is='columntwo' data="{{...deskinfo[81]}}"/>
+      <template is='columntwo' data="{{...deskinfo[82]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[83]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[84]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[85]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[86]}}"/>
+      <template is='columntwo' data="{{...deskinfo[87]}}"/>
+      <template is='columntwo' data="{{...deskinfo[88]}}"/>
+      <template is='columntwo' data="{{...deskinfo[89]}}"/>
+      <template is='columntwo' data="{{...deskinfo[90]}}"/>
+      <template is='columntwo' data="{{...deskinfo[91]}}"/>
+      <template is='columntwo' data="{{...deskinfo[92]}}"/>
+      <template is='columntwo' data="{{...deskinfo[93]}}"/>
+      <template is='columntwo' data="{{...deskinfo[94]}}"/>
+      <template is='columntwo' data="{{...deskinfo[95]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[96]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[97]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[98]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[99]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[100]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[101]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[102]}}"/>
+      <template is='rowtwo' data="{{...deskinfo[103]}}"/>
+      <template is='columntwo' data="{{...deskinfo[104]}}"/>
+      <template is='columntwo' data="{{...deskinfo[105]}}"/>
+      <template is='columntwo' data="{{...deskinfo[106]}}"/>
+      <template is='columntwo' data="{{...deskinfo[107]}}"/>
+      <template is='columntwo' data="{{...deskinfo[108]}}"/>
+      <template is='columntwo' data="{{...deskinfo[109]}}"/>
+      <template is='columntwo' data="{{...deskinfo[110]}}"/>
+      <template is='columntwo' data="{{...deskinfo[111]}}"/>
+
+
+
+
+
+
+      <view class='door'>门</view>
+    </movable-view>
+  </movable-area>
+  <view wx:if="{{userinfo.condition==0}}">
+   <view class='post1'>
+   请选择想要预约的座位,红色为已被选择的座位
+   </view>
+  </view>
+  <view wx:if="{{userinfo.condition==1}}" >
+    <view class='post1'>
+    已选择 {{userinfo.reserve[0]}}区 {{userinfo.reserve[1]}}号桌 {{userinfo.reserve[2]}}号位
+    </view>
+    <view class='post2' catchtap='determine'>
+    确认预约
+    </view>
+  </view>
+  <view wx:if="{{userinfo.condition==2}}" >
+    <view class='post1'>
+    已预约 {{userinfo.reserve[0]}}区 {{userinfo.reserve[1]}}号桌 {{userinfo.reserve[2]}}号位
+    </view>
+    <view class='post2' catchtap='cancelwarn'>
+    取消预约
+    </view>
+    <view class='post3'>
+      请在{{time}}前入座
+      逾时系统将自动取消并扣除您的信誉积分
+    </view>
+  </view>
+  <view wx:if="{{userinfo.condition==3}}" >
+    <view class='post1'>
+    已就座 {{userinfo.reserve[0]}}区 {{userinfo.reserve[1]}}号桌 {{userinfo.reserve[2]}}号位
+    </view>
+    <view class='post2' catchtap='outSeat'>
+    释放座位
+    </view>
+    <view class='post3'>
+      离开图书馆后系统将自动释放您的座位
+      下次需重新预约
+    </view>
+  </view>
+</view>

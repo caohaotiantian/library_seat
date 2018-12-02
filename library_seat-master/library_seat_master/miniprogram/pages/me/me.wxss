@@ -1,0 +1,38 @@
+/* pages/me/me.wxss */
+.text1{
+  margin-top: 0rpx;
+  color:gold;
+  font-size: 60rpx;
+  font-weight:bold;
+}
+.text2{
+  margin-top: 0rpx;
+  color:gold;
+  font-size: 60rpx;
+  font-weight:bold;
+}
+
+.container3{
+  width:100%;
+  height:550rpx;
+  background-image: url("http://thyrsi.com/t6/620/1543595473x2728278728.jpg");
+  background-repeat:no-repeat; background-size:100% 100%;-moz-background-size:100% 100%;
+}
+
+.guize{
+  top: 900rpx;
+  color:black;
+  font-size: 40rpx;
+}
+
+.rule{
+  margin-top: 60rpx;
+  color:gold;
+  font-size: 60rpx;
+  font-weight:bold;
+}
+
+.image{
+  width:100%;
+  height:700rpx;
+}
